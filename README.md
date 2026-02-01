@@ -20,7 +20,7 @@
 - Обучение переключениям
 - Автостоп по финишу
 
-![Race](assets/screenshots/race.png)
+
 
 ---
 
@@ -29,7 +29,7 @@
 - Регионы
 - Удобное управление
 
-![Numbers](assets/screenshots/numbers.png)
+
 
 ---
 
@@ -38,7 +38,7 @@
 - Настраиваемые задержки
 - Повтор по кругу
 
-![Fuel](assets/screenshots/fuel.png)
+
 
 ---
 
@@ -47,7 +47,7 @@
 - Тайминги
 - Поддержка Telegram-уведомлений
 
-![Rollback](assets/screenshots/rollback.png)
+
 
 ---
 
